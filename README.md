@@ -1,3 +1,3 @@
 # Hey
-This is my third repository
-and this is mine
+This is my first repository
+and this is me
